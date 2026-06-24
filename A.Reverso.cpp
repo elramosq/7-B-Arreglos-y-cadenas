@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
- int N, A[5], awx=0;
+ int N, A[1005], awx=0;
 	
  cin>>N;
 	
